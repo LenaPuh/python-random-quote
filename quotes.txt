@@ -12,3 +12,7 @@ Favor focus over features
 Avoid administrative distraction
 Design for failure
 Keep it logically awesome
+Quote is a words you use in a special form
+Python is interesting
+Learning demands practicing
+Faster, higher, strongerMake your code clear
